@@ -18,6 +18,13 @@ namespace mirazabal
 		class sio_packet
 		{
 
+
+
+
+
+
+
+
 		public:
 			enum class frame_type
 			{
